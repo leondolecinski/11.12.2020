@@ -1,0 +1,20 @@
+img{
+    height:630px ;
+    
+}
+body{
+    background-color: seagreen;
+}
+.moja-klasa {
+        margin-left: 40%;
+}
+.tekst{
+    color: rgb(0, 183, 255);
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.po{
+    margin-left: 15%;
+    margin-right: 20%;
+}

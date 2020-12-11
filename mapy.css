@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(221, 158, 21);
+}
+.mapa{
+    height:600px ;
+    width: 80%;
+    margin-left: 10%;
+}
+.moja-klasa1{
+    margin-left: 37%;
+}
+.tekst{
+    color: red;
+    font-size: 27px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
